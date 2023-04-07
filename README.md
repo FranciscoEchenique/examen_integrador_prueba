@@ -7,3 +7,6 @@ Bruna Tomas Maiochi
 Diego Medina
 
 Marina Barrovecchio
+
+Franco Simoes
+
